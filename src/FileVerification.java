@@ -8,6 +8,7 @@ import java.util.Scanner;
 
 public class FileVerification{
     public static void main(String args[]) throws Exception {
+        //task02
         //Creating KeyPair generator object
         KeyPairGenerator keyPairGen = KeyPairGenerator.getInstance("DSA");
 
