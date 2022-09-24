@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64dca8c7-de5d-40aa-bd78-95009409fbba" name="Changes" comment="File Verification">
-      <change beforePath="$PROJECT_DIR$/src/FileVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileVerification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RSA_ENCRYPTION.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RSA_ENCRYPTION.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +65,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664059597111</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="File Verification complete">
+      <created>1664059688002</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664059688002</updated>
+    </task>
+    <task id="LOCAL-00005" summary="File Verification">
+      <created>1664059909809</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664059909809</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,6 +95,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="RSA algorithm" />
+    <MESSAGE value="File Verification complete" />
     <MESSAGE value="File Verification" />
     <option name="LAST_COMMIT_MESSAGE" value="File Verification" />
   </component>
@@ -88,7 +104,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/FileVerification.java</url>
-          <line>45</line>
+          <line>44</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
