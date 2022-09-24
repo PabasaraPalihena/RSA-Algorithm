@@ -47,7 +47,6 @@ public class FileVerification{
         System.out.println("Digital signature for given file: "+new String(signature, "UTF8"));
 
         //Verifying the signature
-
         //Initializing the signature
         sign.initVerify(pair.getPublic());
 
